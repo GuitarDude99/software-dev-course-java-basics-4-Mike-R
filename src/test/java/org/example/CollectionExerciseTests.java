@@ -38,6 +38,7 @@ public class CollectionExerciseTests {
         assert topThree[0].equals("apple");
         assert topThree[1].equals("banana");
         assert topThree[2].equals("cherry");
+
     }
 
     @Test
